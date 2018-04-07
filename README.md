@@ -1,6 +1,7 @@
 # inspire-wit
 The nice people I met at the inspireWiT 2018 conference
 
+* Name = Kimmaso, Handle = tomtuf, Kimmaso again, here's the emoji: :-D \m/ \m/
 * Hey, I'm another Amy! My GitHub handle is amybreedonj my favourite (non-custom) emoji is 🦁
 * Courtenay Courtenayxt
 * Caroline Poyser CarolinePoyser :smile:
